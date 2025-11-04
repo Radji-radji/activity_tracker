@@ -64,16 +64,18 @@ python main.py
 
 ### Main Calendar View
 
-![image alt]()
+![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0200.jpg?raw=true)
 
 ### Add Activity Form
 
-![image alt]()
+![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0187.jpg?raw=true)
 ![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0188.jpg?raw=true)
 
 ### Statistics Dashboard
 
-![image alt]()
+![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0200.jpg?raw=true)
+![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0191.jpg?raw=true)
+
 
 ## Project Structure
 
