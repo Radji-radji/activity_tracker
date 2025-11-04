@@ -73,7 +73,7 @@ python main.py
 
 ### Statistics Dashboard
 
-![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0200.jpg?raw=true)
+![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0190.jpg?raw=true)
 ![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0191.jpg?raw=true)
 
 
