@@ -28,7 +28,7 @@ Activity Tracker Calendar helps you organize and monitor your daily habits like 
 1. Clone the repository
 ```bash
 git clone https://github.com/Radji-radji/activity_tracker.git
-cd activity-tracker-calendar
+cd activity-tracker
 ```
 
 2. Install required libraries
