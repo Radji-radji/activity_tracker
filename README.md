@@ -64,7 +64,7 @@ python main.py
 
 ### Main Calendar View
 
-(Add screenshot here)
+![image alt](https://github.com/Radji-radji/activity_tracker/blob/main/IMG-20251104-WA0188.jpg?raw=true)
 
 ### Add Activity Form
 
