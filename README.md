@@ -27,7 +27,7 @@ Activity Tracker Calendar helps you organize and monitor your daily habits like 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/activity-tracker-calendar.git
+git clone https://github.com/Radji-radji/activity_tracker.git
 cd activity-tracker-calendar
 ```
 
@@ -105,7 +105,7 @@ This project is open source and available under the MIT License.
 
 Radji Mouhammed - saadradji11@gmail.com
 
-Project Link: [https://github.com/yourusername/activity-tracker-calendar](https://github.com/yourusername/activity-tracker-calendar)
+Project Link: [https://github.com/Radji-radji/activity_tracker.git](https://github.com/Radji-radji/activity_tracker.git)
 
 ## Acknowledgments
 
